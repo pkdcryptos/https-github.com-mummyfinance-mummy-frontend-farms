@@ -1,7 +1,7 @@
 {
-  "short_name": "PancakeSwap",
-  "name": "PancakeSwap",
-  "description": "Farm CAKE with Pancake LP Tokens",
+  "short_name": "MummyFinance",
+  "name": "MummyFinance",
+  "description": "Farm SCARAB with Mummy LP Tokens",
   "icons": [
     {
       "src": "favicon.ico",
