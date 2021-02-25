@@ -1888,7 +1888,7 @@
 
 "@pancakeswap-libs/uikit@mummyfinance/mummy-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/mummyfinance/mummy-uikit/tar.gz/477f83e8d8ebed366dce67184809e1333e0ba7e5"
+  resolved "https://codeload.github.com/mummyfinance/mummy-uikit/tar.gz/283cf8d5a8bb4d97211fd523a536da7c9f0e2f95"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
