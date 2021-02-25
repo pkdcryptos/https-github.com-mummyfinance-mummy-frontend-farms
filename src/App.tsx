@@ -48,7 +48,7 @@ const App: React.FC = () => {
             <Route path="/farms">
               <Farms />
             </Route>
-            <Route path="/bloodpools">
+            <Route path="/sandpools">
               <Farms tokenMode/>
             </Route>
             {/* <Route path="/pools"> */}

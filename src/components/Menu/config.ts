@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'http://exchange.mummy.finance/',
+        href: 'http://localhost:3001/#/swap', /* https://exchange.mummy.finance/ */
       },
       {
         label: 'Liquidity',
-        href: 'http://exchange.mummy.finance/#/pool',
+        href: 'http://localhost:3001/#/pool', /* https://exchange.mummy.finance/#/pool */
       },
     ],
   },
@@ -26,9 +26,9 @@ const config: MenuEntry[] = [
     href: '/farms',
   },
   {
-    label: 'Blood Pools',
+    label: 'Sand Pools',
     icon: 'PoolIcon',
-    href: '/bloodpools',
+    href: '/sandpools',
   },
   // {
   //   label: 'Pools',
