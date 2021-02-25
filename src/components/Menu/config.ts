@@ -26,9 +26,9 @@ const config: MenuEntry[] = [
     href: '/farms',
   },
   {
-    label: 'Nests',
+    label: 'Blood Pools',
     icon: 'PoolIcon',
-    href: '/nests',
+    href: '/bloodpools',
   },
   // {
   //   label: 'Pools',
