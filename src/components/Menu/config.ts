@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'http://localhost:3001/#/swap', /* https://exchange.mummy.finance/ */
+        href: 'https://exchange.mummy.finance/',
       },
       {
         label: 'Liquidity',
-        href: 'http://localhost:3001/#/pool', /* https://exchange.mummy.finance/#/pool */
+        href: 'https://exchange.mummy.finance/#/pool',
       },
     ],
   },
