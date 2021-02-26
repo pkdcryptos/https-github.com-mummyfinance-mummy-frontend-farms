@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.mummy.finance/',
+        href: 'https://master.d3su0wt6vm4zp0.amplifyapp.com/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.mummy.finance/#/pool',
+        href: 'https://master.d3su0wt6vm4zp0.amplifyapp.com/#/pool',
       },
     ],
   },
