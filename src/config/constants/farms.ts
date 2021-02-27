@@ -8,12 +8,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'SCARAB-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '0x19e7cbecdd23a16dfa5573df54d98f7caae03019',
+      56: '0x5824bbe60efd1b321abb3975f07388d898da5c9f',
     },
     tokenSymbol: 'SCARAB',
     tokenAddresses: {
       97: '',
-      56: '0xf952fc3ca7325cc27d15885d37117676d25bfda6',
+      56: '0x9c5D0C6a3be22B5dbd18275527CC17FB6327d696',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -24,12 +24,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'SCARAB-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0xd1b59d11316e87c3a0a069e80f590ba35cd8d8d3',
+      56: '0xbaea9bbfb263fe1f3b2c69985e1232baa5e6026c',
     },
     tokenSymbol: 'SCARAB',
     tokenAddresses: {
       97: '',
-      56: '0xf952fc3ca7325cc27d15885d37117676d25bfda6',
+      56: '0x9c5D0C6a3be22B5dbd18275527CC17FB6327d696',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
@@ -185,12 +185,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'SCARAB',
     lpAddresses: {
       97: '',
-      56: '0x19e7cbecdd23a16dfa5573df54d98f7caae03019', // SCARAB-BUSD LP
+      56: '0x5824bbe60efd1b321abb3975f07388d898da5c9f', // SCARAB-BUSD LP
     },
     tokenSymbol: 'SCARAB',
     tokenAddresses: {
       97: '',
-      56: '0xf952fc3ca7325cc27d15885d37117676d25bfda6',
+      56: '0x9c5D0C6a3be22B5dbd18275527CC17FB6327d696',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -202,7 +202,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'BUSD',
     lpAddresses: {
       97: '',
-      56: '0x19e7cbecdd23a16dfa5573df54d98f7caae03019', // SCARAB-BUSD LP (BUSD-BUSD will ignore)
+      56: '0x5824bbe60efd1b321abb3975f07388d898da5c9f', // SCARAB-BUSD LP (BUSD-BUSD will ignore)
     },
     tokenSymbol: 'BUSD',
     tokenAddresses: {

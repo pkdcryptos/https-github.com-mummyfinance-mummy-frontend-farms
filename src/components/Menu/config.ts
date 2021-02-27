@@ -51,7 +51,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6',
+        href: 'https://pancakeswap.info/token/0x9c5D0C6a3be22B5dbd18275527CC17FB6327d696',
       },
       /* {
         label: 'CoinGecko',
@@ -60,11 +60,11 @@ const config: MenuEntry[] = [
       {
         label: 'CoinMarketCap',
         href: 'https://coinmarketcap.com/currencies/mummy-finance/',
-      },
+      }, */
       {
         label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0x19e7cbecdd23a16dfa5573df54d98f7caae03019',
-      }, */
+        href: 'https://app.astrotools.io/pancake-pair-explorer/0x5824bbe60efd1b321abb3975f07388d898da5c9f',
+      },
     ],
   },
   {
