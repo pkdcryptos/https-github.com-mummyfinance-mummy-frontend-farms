@@ -12,16 +12,16 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://master.d3su0wt6vm4zp0.amplifyapp.com/#/swap',
+        href: 'https://exchange.mummy.finance/',
       },
       {
         label: 'Liquidity',
-        href: 'https://master.d3su0wt6vm4zp0.amplifyapp.com/#/pool',
+        href: 'https://exchange.mummy.finance/#/pool',
       },
     ],
   },
   {
-    label: 'Farms',
+    label: 'Cursed Farms',
     icon: 'FarmIcon',
     href: '/farms',
   },
