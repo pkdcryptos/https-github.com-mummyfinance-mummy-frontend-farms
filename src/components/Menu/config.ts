@@ -81,11 +81,11 @@ const config: MenuEntry[] = [
       },
       {
         label: "Docs",
-        href: "",
+        href: "https://financemummy.gitbook.io/mummy-finance/",
       },
       {
         label: "Blog",
-        href: "",
+        href: "https://medium.com/@MummyFinance",
       },
     ],
   },
